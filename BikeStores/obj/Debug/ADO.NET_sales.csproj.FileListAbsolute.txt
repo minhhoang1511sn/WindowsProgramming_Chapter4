@@ -1,0 +1,103 @@
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\bin\Debug\BikeStores.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\bin\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\bin\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.BrandForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.CatagoriesForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.CustomerForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.OrdersForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.Orders_itemsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.ProductsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.StockForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.StoreForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.StaffForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\ADO.NET_sales.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\ADO.NET_sales.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.HDMDIForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\BikeStores.LoginForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BikeStores\BikeStores\obj\Debug\ADO.NET_sales.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.BrandForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CatagoriesForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CustomerForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.HDMDIForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.LoginForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.OrdersForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Orders_itemsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.ProductsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StockForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StaffForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StoreForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.BrandForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CatagoriesForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CustomerForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.HDMDIForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.LoginForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.OrdersForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Orders_itemsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.ProductsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StockForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StaffForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StoreForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\backup chưa sửa\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.BrandForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CatagoriesForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CustomerForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.HDMDIForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.LoginForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.OrdersForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Orders_itemsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.ProductsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StockForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StaffForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StoreForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\phanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe.config
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\bin\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csprojAssemblyReference.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.BrandForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CatagoriesForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CustomerForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.HDMDIForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.LoginForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.OrdersForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Orders_itemsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.ProductsForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StockForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StaffForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.Properties.Resources.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.StoreForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.GenerateResource.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\ADO.NET_sales.csproj.CoreCompileInputs.cache
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.exe
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\danglamphanquyen\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.pdb
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.DistrictForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.ProvinceForm.resources
+E:\Lap_Trinh\HOC\HK II\NAM-II\Lập trình trên windows\Chương 3\Excercise\BaiTapChuong3_LapTrinhWindows\BikeStores\obj\Debug\BikeStores.CommuneForm.resources
